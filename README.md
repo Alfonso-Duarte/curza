@@ -1,7 +1,7 @@
-# Mi producto
+# Curza
 
-> **Alumno:** cambia este título por el nombre de tu producto y esta línea por una frase que lo explique.
-> Proyecto n.º __ del catálogo · Sitio de referencia: __ · [PRD](docs/PRD.md) · URL publicada: __
+> **Alfonso Duarte:** Plataforma de aprendizaje por rutas estructuradas donde desbloqueas cursos según tus prerrequisitos aprobados mediante ordenamiento topológico y visualizas tu avance en tiempo real.
+> Proyecto n.º 42 del catálogo · Sitio de referencia: Platzi · [PRD](docs/PRD.md) · URL publicada: https://github.com/Alfonso-Duarte/curza
 
 Plantilla del proyecto de **Lenguaje de Programación · 2026**.
 La guía completa de la actividad está en el repositorio del curso:
