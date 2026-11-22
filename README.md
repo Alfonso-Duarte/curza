@@ -1,7 +1,7 @@
 # Curza
 
 > **Alfonso Duarte:** Plataforma de aprendizaje por rutas estructuradas donde desbloqueas cursos según tus prerrequisitos aprobados mediante ordenamiento topológico y visualizas tu avance en tiempo real.
-> Proyecto n.º 42 del catálogo · Sitio de referencia: Platzi · [PRD](docs/PRD.md) · URL publicada: https://github.com/Alfonso-Duarte/curza
+> Proyecto n.º 42 del catálogo · Sitio de referencia: Platzi · [PRD](docs/PRD.md) · URL publicada: __
 
 Plantilla del proyecto de **Lenguaje de Programación · 2026**.
 La guía completa de la actividad está en el repositorio del curso:
